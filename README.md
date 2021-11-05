@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pumbafa
-- 👀 I’m interested in data economics
+- 👀 I’m interested in economics
 - 🌱 I’m currently learning data analysis and machine learning in Python
 - 📫 How to reach me: https://www.linkedin.com/in/philippe-kamm-490775205/
 
